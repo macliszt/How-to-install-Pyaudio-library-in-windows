@@ -75,3 +75,6 @@ print(pyaudio.__version__)  # Should print the installed version
 ```
 ✅ If there are **no errors**, PyAudio is successfully installed!  
 
+
+Here is the link you can use to download pyaudio.whl file that you want
+http://qiniucdn.star-lai.cn/portal/2016/09/05/tu3p2vd4znn#pyaudio
