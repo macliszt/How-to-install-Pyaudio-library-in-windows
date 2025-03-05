@@ -51,6 +51,7 @@ python --version  # Should now show Python 3.13
 ---
 
 ## **4. Install PyAudio from a Local Wheel (.whl) File**  
+Download the file from th repository
 If you downloaded a **.whl file**, install it using:  
 ```sh
 pip install "C:\Path\to\your\pyaudio.whl\PyAudio-0.2.14-cp313-cp313-win_amd64.whl"
